@@ -1,0 +1,2 @@
+# filencor
+File encryptor/decryptor 
